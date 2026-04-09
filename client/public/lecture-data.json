@@ -1,6 +1,6 @@
 {
   "title": "Understanding Complex PTSD Through Daniel's Life",
-  "description": "A comprehensive 12-lecture series exploring Complex PTSD through the lived experience of Daniel, examining trauma's neurological impact, relational patterns, and pathways to recovery.",
+  "description": "A comprehensive 16-lecture series exploring Complex PTSD through the lived experience of Daniel, examining trauma's neurological impact, relational patterns, systemic failures, and pathways to recovery and justice.",
   "slides": [
     {
       "id": 1,
@@ -138,12 +138,60 @@
       "id": 12,
       "title": "Decoding the Damage, Rewriting the Truth",
       "subtitle": "The Science and Story of Reclaiming Your Life",
-      "content": "This final lecture brings together neuroscience and recovery through the lens of neuroplasticity—the brain's remarkable capacity to change and heal itself. We explore how recovery involves moving from 'Survival Scripts' (I am broken) to 'New Truths' (I am adapting). Tools like journaling and storytelling help strengthen the hippocampus by connecting memory to meaning. Daniel's journey from silence to advocacy demonstrates post-traumatic growth. The lecture concludes with a call to action: stop pathologizing pain and start celebrating the miracle of survival and rewiring.",
+      "content": "This lecture brings together neuroscience and recovery through the lens of neuroplasticity—the brain's remarkable capacity to change and heal itself. We explore how recovery involves moving from 'Survival Scripts' (I am broken) to 'New Truths' (I am adapting). Tools like journaling and storytelling help strengthen the hippocampus by connecting memory to meaning. Daniel's journey from silence to advocacy demonstrates post-traumatic growth. The lecture concludes with a call to action: stop pathologizing pain and start celebrating the miracle of survival and rewiring.",
       "keyPoints": [
         "Neuroplasticity: the brain's capacity to change and heal",
         "Recovery: moving from survival scripts to new truths",
         "Journaling and storytelling as rewiring tools",
         "Post-traumatic growth and reclaiming your narrative"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Inside the Silence",
+      "subtitle": "How Trauma Really Works",
+      "content": "This lecture explores why trauma survivors often become silent, funny, overworked, or 'fine'—and why they never 'just ask for help.' We examine the biology of freeze, the shame of silence, and how Daniel's bedwetting, stomach pain, zoning out, and self-isolation were all symptoms, not sins. Silence protects in the moment but traps survivors in long-term suffering. Understanding the neurobiology of silence helps us recognize that trauma survivors' silence is not a choice—it's a survival mechanism that needs compassionate intervention, not judgment.",
+      "keyPoints": [
+        "Biology of freeze: why silence feels safer than speaking",
+        "Symptoms vs. sins: bedwetting, stomach pain, dissociation",
+        "Silence as protection that becomes a prison",
+        "Why 'just ask for help' is trauma-blind advice"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "The War on Reality (Revisited)",
+      "subtitle": "Gaslighting Across Systems",
+      "content": "This lecture deepens our understanding of gaslighting beyond intimate relationships to examine systemic gaslighting. We explore how institutions, workplaces, and society gaslight trauma survivors by denying their experiences, pathologizing their survival responses, and making them question their own reality. Daniel's experience with courts, rehab facilities, and social systems that denied his trauma reveals how gaslighting operates at every level. This lecture examines the intersection of personal and institutional betrayal.",
+      "keyPoints": [
+        "Systemic gaslighting: institutions denying survivor reality",
+        "Courts weaponizing mental health records",
+        "Rehab facilities shaming symptoms as moral failures",
+        "Reclaiming reality in the face of institutional denial"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Fuck Stigma, and Fuck My Ex-Wife",
+      "subtitle": "What Happens When Survival Is Treated Like a Crime",
+      "content": "This raw, unfiltered lecture declares war against every system that punishes trauma survivors for how they survived while coddling the people who hurt them. We dismantle three lies: that rage is a flaw, that silence is noble, and that survival is a crime. Daniel's rage isn't toxic masculinity—it's the only part of him that survived intact. We examine how stigma protects abusers, how institutional betrayal criminalizes survival, and how accountability differs from apology theater. This lecture reclaims rage as a sacred language of resistance.",
+      "keyPoints": [
+        "Rage is a trauma response, not a character flaw",
+        "Stigma as the abuser's bodyguard protecting predators",
+        "Institutional betrayal: systems siding with abusers",
+        "Accountability vs. apology: survivors owe nothing"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "If You're Not Asking What Happened, You're Part of What's Happening",
+      "subtitle": "From Judgment to Justice",
+      "content": "This final lecture confronts the harm in asking 'What's wrong with you?' and the revolution that begins with 'What happened to you?' We examine how Daniel was labeled 'lazy' for dissociation, 'unstable' for emotional flooding, and 'manipulative' for breakdown—when each was a trauma response to violence and betrayal. The bystander effect enables abuse through silence and complicity. We explore how to practice trauma-informed curiosity, amplify marginalized voices, and transform institutions from punishment to prevention. This lecture calls individuals, institutions, and society to become allies in the revolution.",
+      "keyPoints": [
+        "'What's wrong with you?' pathologizes survival; 'What happened?' humanizes it",
+        "Bystander complicity: silence enables abuse",
+        "Intersectional lens: race, gender, class shape who gets heard",
+        "Trauma-informed curiosity as resistance and revolution"
       ]
     }
   ]
