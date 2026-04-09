@@ -1,115 +1,149 @@
 {
   "title": "Understanding Complex PTSD Through Daniel's Life",
-  "description": "A comprehensive lecture series exploring Complex PTSD through the lived experience of Daniel, examining trauma's neurological impact and pathways to recovery.",
+  "description": "A comprehensive 12-lecture series exploring Complex PTSD through the lived experience of Daniel, examining trauma's neurological impact, relational patterns, and pathways to recovery.",
   "slides": [
     {
       "id": 1,
-      "title": "Beyond the Diagnosis: A Human-Centered Approach to CPTSD",
-      "content": "This presentation explores Complex PTSD (CPTSD) not as a list of symptoms, but as a lived experience of survival and adaptation. We use the case study of Daniel to illustrate how early trauma shapes the brain, behavior, and adult relationships. The goal is to shift the perspective from 'What is wrong with you?' to 'What happened to you?'",
+      "title": "The Truth Behind the Silence",
+      "subtitle": "Attachment Trauma and Early Survival",
+      "content": "This lecture introduces Daniel's story as a case study for understanding Complex PTSD. We explore how early attachment trauma in the NICU, combined with domestic violence exposure by age five, creates the foundation for lifelong trauma patterns. The goal is to shift perspective from 'What is wrong with you?' to 'What happened to you?' and understand how the brain prioritizes survival over connection when early environments are unpredictable or absent.",
       "keyPoints": [
-        "CPTSD is a lived experience of survival and adaptation",
-        "Trauma is not just what happens to the body; it is what fails to happen for the soul",
-        "Understanding Daniel's story reveals how trauma shapes development",
-        "We must shift from pathologizing to understanding"
+        "Attachment trauma: 30 days in NICU without nurturing contact",
+        "Early relational trauma from domestic violence exposure",
+        "Hypervigilance as physiological survival mechanism",
+        "Fawn response emerges as emotional appeasement strategy"
       ]
     },
     {
       "id": 2,
-      "title": "The Blueprint of Survival: Attachment and Early Relational Trauma",
-      "content": "Daniel's journey began with 30 days in a NICU incubator—a foundational experience of attachment trauma. Attachment Trauma is the disruption in early, nurturing connections that sets the stage for disorganized attachment. Early isolation teaches the developing brain that comfort is unreliable and safety is conditional. The brain prioritizes survival over connection when early environments are unpredictable or absent.",
+      "title": "The Masks We Wear",
+      "subtitle": "Fawning, Perfectionism, and the Myth of Being 'Okay'",
+      "content": "This lecture examines the fawn response as a trauma-informed survival strategy that masquerades as work ethic and reliability. We explore how Daniel's overperformance became his prison through the 'competence trap'—where exceeding expectations leads to burnout and abandonment fears. The distinction between genuine kindness and people-pleasing as a trauma reflex reveals how CPTSD survivors learn to earn their place through usefulness rather than inherent worth.",
       "keyPoints": [
-        "Attachment trauma: disruption in early, nurturing connections",
-        "30 days in NICU without skin-to-skin contact or mother's heartbeat",
-        "Early isolation teaches the brain that comfort is unreliable",
-        "Disorganized attachment results from fear and comfort being confused"
+        "Fawn response: survival through overgiving and overperforming",
+        "Competence trap: when excellence becomes a prison",
+        "People-pleasing as panic, not politeness",
+        "Emotional labor and the cost of invisibility"
       ]
     },
     {
       "id": 3,
-      "title": "Living on High Alert: The Physiology of Hypervigilance",
-      "content": "By age five, Daniel's home was a 'war zone' of domestic violence, leading to chronic hypervigilance. Hypervigilance is a heightened state of sensory sensitivity; it is survival conditioning, not paranoia. Physiological manifestations include sleep paralysis, night terrors, and chronic tension. CPTSD is a physiological response where the brainstem takes over to ensure survival in a constant state of threat.",
+      "title": "When Love Hurts",
+      "subtitle": "Trauma Bonds, Love Bombing, and Emotional Repetition",
+      "content": "This lecture explores how trauma survivors recreate familiar patterns through trauma bonds—intense attachments formed through cycles of abuse and intermittent reinforcement. We examine Daniel's relationships with Tina and Kristina, understanding how love bombing creates chemical addiction to connection, and how the nervous system trained in chaos panics during calm. The concept of emotional repetition compulsion reveals why survivors unconsciously seek partners who mirror their earliest wounds.",
       "keyPoints": [
-        "Hypervigilance: heightened sensory sensitivity as survival conditioning",
-        "Physical symptoms: sleep paralysis, night terrors, chronic bedwetting",
-        "The brainstem takes over in unsafe environments",
-        "This is not psychological weakness—it is physiological response"
+        "Trauma bonds: attachment through cycles of abuse and affection",
+        "Love bombing: excessive attention followed by withdrawal",
+        "Nervous system trained to respond to danger with closeness",
+        "Emotional repetition compulsion and familiar chaos"
       ]
     },
     {
       "id": 4,
-      "title": "The Fawn Response: Survival Masked as Personality",
-      "content": "In adolescence, Daniel mastered the 'fawn response'—overgiving and overperforming to avoid conflict. The Fawn Response is a trauma response involving people-pleasing and self-abandonment to stay safe. Often mistaken for 'work ethic' or 'kindness,' fawning is actually emotional appeasement rooted in fear. When worth is tied to usefulness, productivity becomes a shield against the terror of rejection.",
+      "title": "The War on Reality",
+      "subtitle": "Gaslighting, Blame Shifting, and the Breakdown of Trust",
+      "content": "This lecture examines the psychological battlefield of emotional abuse tactics: gaslighting, blame shifting, and DARVO. We explore how Daniel's reality was systematically dismantled through denial of his lived experience, constant blame for others' emotions, and parental alienation weaponized against him. The psychological impact of these tactics compounds CPTSD symptoms and creates profound distrust of one's own perception and reality.",
       "keyPoints": [
-        "Fawn response: people-pleasing and self-abandonment to avoid conflict",
-        "Often mistaken for work ethic or kindness",
-        "Rooted in fear of rejection and abandonment",
-        "Worth becomes tied to usefulness and productivity"
+        "Gaslighting: reality under siege through denial and confusion",
+        "Blame shifting: making the victim responsible for everything",
+        "DARVO: Deny, Attack, Reverse Victim and Offender",
+        "Parental alienation: weaponizing children as emotional tools"
       ]
     },
     {
       "id": 5,
-      "title": "The Trauma Mirror: Marriage and Psychological Manipulation",
-      "content": "Daniel's adult marriage mirrored his childhood chaos, involving gaslighting and blame-shifting. Gaslighting is psychological manipulation that makes a victim doubt their own reality. Parental Alienation involves weaponizing children to turn them against a parent—a form of emotional abuse. Unresolved trauma often leads individuals to recreate familiar, albeit painful, relational dynamics.",
+      "title": "Relapse Isn't a Betrayal",
+      "subtitle": "It's a Scream",
+      "content": "This lecture reframes addiction and relapse through a trauma-informed lens. Daniel's use of meth was not about pleasure-seeking but about achieving silence from a brain stuck in terror. We explore how addiction functions as a coping strategy for overwhelming emotional pain and dysregulation, and how relapse represents the nervous system screaming for regulation rather than moral failure. Understanding addiction as a language of pain shifts treatment approaches from punishment to compassion.",
       "keyPoints": [
-        "Marriage recreated childhood chaos with nicer furniture",
-        "Gaslighting: twisting truths and rewriting history",
-        "Blame shifting: everything becomes the victim's fault",
-        "Parental alienation: weaponizing children against a parent"
+        "Addiction as coping strategy for unbearable emotional pain",
+        "Meth use: seeking silence, not euphoria",
+        "Relapse as nervous system dysregulation, not failure",
+        "Trauma-informed approach to recovery and compassion"
       ]
     },
     {
       "id": 6,
-      "title": "Trauma Bonds and the Search for Safety",
-      "content": "Post-divorce, Daniel entered intense relationships characterized by trauma bonds and love bombing. A Trauma Bond is an intense emotional attachment to someone who is both harmful and validating. Love Bombing involves excessive affection used to create dependency; when it stops, it triggers early abandonment wounds. 'Trauma dumping' is often a sign of finally feeling safe enough to speak, rather than a sign of instability.",
+      "title": "What Healing Actually Looks Like",
+      "subtitle": "From Surviving to Self-Attuning",
+      "content": "This lecture shifts focus to recovery and healing, exploring what genuine healing looks like beyond symptom management. We examine self-attunement—the capacity to recognize and respond to one's own emotional needs—as a foundational skill for trauma survivors. Daniel's journey toward healing involves learning to regulate his nervous system, set boundaries, and develop self-compassion. This lecture provides practical frameworks for moving from survival mode to genuine recovery.",
       "keyPoints": [
-        "Trauma bonds: intense attachment to both harmful and validating people",
-        "Love bombing: excessive affection followed by withdrawal",
-        "Trauma dumping: finally feeling safe enough to speak",
-        "These patterns repeat unresolved childhood dynamics"
+        "Self-attunement: recognizing and responding to your own needs",
+        "Nervous system regulation as foundation for healing",
+        "Boundary-setting as act of self-preservation",
+        "From survival scripts to new truths"
       ]
     },
     {
       "id": 7,
-      "title": "Addiction as a Language of Pain",
-      "content": "Daniel's use of meth was an attempt to achieve 'silence' from a brain stuck in a state of terror. Addiction in Trauma is a coping strategy for overwhelming emotional pain and dysregulation. Relapse is not a moral failure; it is the nervous system screaming for a way to regulate. Addiction is often less about seeking pleasure and more about escaping an unbearable internal reality.",
+      "title": "The Breaking Point",
+      "subtitle": "Grief, Guilt, and Garrett's Death",
+      "content": "This lecture explores the profound grief and guilt that emerges in trauma recovery, particularly when loss compounds existing trauma. Through the lens of Garrett's death, we examine how CPTSD survivors process grief differently—often with complicated emotions of guilt, responsibility, and unresolved trauma. This lecture addresses the intersection of grief and trauma, and how survivors can honor loss while continuing their healing journey without being consumed by guilt.",
       "keyPoints": [
-        "Addiction: coping strategy for overwhelming emotional pain",
-        "Not about pleasure—about achieving silence and escape",
-        "Relapse is not failure; it is the nervous system seeking regulation",
-        "Understanding addiction requires understanding the pain it masks"
+        "Complicated grief in trauma survivors",
+        "Guilt as a trauma response, not a reflection of reality",
+        "The intersection of loss and unresolved trauma",
+        "Honoring grief while continuing healing"
       ]
     },
     {
       "id": 8,
-      "title": "The Neurological Battleground: Brain Regions Under Siege",
-      "content": "The Amygdala becomes a hyper-sensitive smoke detector, triggering 'Amygdala Hijacks' or emotional takeovers. The Hippocampus, the 'librarian of memory,' can shrink from chronic trauma, leading to memory gaps and blurred timelines. The Prefrontal Cortex (PFC), the 'CEO' of the brain, is dulled, making emotional regulation and rational decision-making difficult. You are not broken; your brain has been physically rewired by the environment it had to survive.",
+      "title": "Rewriting the Legacy",
+      "subtitle": "Fathers, Grief, and the Fight to Be Seen",
+      "content": "This lecture examines intergenerational trauma and the complex relationship between fathers and sons in trauma recovery. Daniel's relationship with his father reflects both the wounds of his childhood and the possibility of redemption and understanding. We explore how trauma survivors can rewrite family narratives, break cycles of abuse, and create new legacies for future generations. This lecture addresses the fight to be truly seen and understood within family systems.",
       "keyPoints": [
-        "Amygdala: becomes a hyper-sensitive alarm system",
-        "Hippocampus: shrinks, creating memory gaps and timeline confusion",
-        "Prefrontal Cortex: dulled, affecting decision-making and regulation",
-        "These are physical changes, not character flaws"
+        "Intergenerational trauma and family patterns",
+        "Father-son relationships and unresolved wounds",
+        "Rewriting family narratives and breaking cycles",
+        "The fight to be seen and understood"
       ]
     },
     {
       "id": 9,
-      "title": "The Power of Neuroplasticity: Rewiring for Recovery",
-      "content": "The brain is not stone; it is clay. Neuroplasticity is the brain's capacity to change and heal itself. Recovery involves moving from 'Survival Scripts' (I am broken) to 'New Truths' (I am adapting). Tools like journaling and storytelling help strengthen the hippocampus by connecting memory to meaning. Awareness is the birthplace of transformation; naming the trauma turns a storm into a story.",
+      "title": "Shame vs. Responsibility",
+      "subtitle": "The Fine Line Between Accountability and Self-Hatred",
+      "content": "This lecture makes a crucial distinction between shame and responsibility—two concepts often conflated in trauma recovery. Shame is the belief that 'I am bad'; responsibility is the recognition that 'I made a mistake.' Daniel's journey involves learning to hold himself accountable without descending into self-hatred. This lecture explores how trauma survivors can develop healthy accountability without being consumed by shame, and how to differentiate between appropriate responsibility and internalized blame.",
       "keyPoints": [
-        "Neuroplasticity: the brain's capacity to change and heal",
-        "Recovery: moving from survival scripts to new truths",
-        "Journaling and storytelling strengthen the hippocampus",
-        "Awareness is the birthplace of transformation"
+        "Shame: 'I am bad' vs. Responsibility: 'I made a mistake'",
+        "Internalized blame from childhood trauma",
+        "Healthy accountability without self-hatred",
+        "Breaking the shame spiral"
       ]
     },
     {
       "id": 10,
-      "title": "Reclaiming the Narrative: From Rubble to Cathedral",
-      "content": "Daniel is now journaling, advocating, and learning to set boundaries—the hallmarks of post-traumatic growth. Post-Traumatic Growth is positive psychological change resulting from the struggle with highly challenging life circumstances. We must stop pathologizing pain and start understanding the miracle of survival. Your scars are not defects; they are blueprints of your resilience. Build your future from the rubble.",
+      "title": "The Lectures They Never Gave Us",
+      "subtitle": "Why Trauma Literacy Should've Been Taught First",
+      "content": "This lecture addresses a critical gap in education: the absence of trauma literacy in schools and society. We explore what trauma education should include—understanding attachment, recognizing trauma responses, learning emotional regulation, and developing healthy relationships. This lecture advocates for a paradigm shift in how we teach children about their own minds and bodies, and how early trauma education could prevent cycles of abuse and misunderstanding.",
       "keyPoints": [
-        "Post-traumatic growth: positive change from struggle",
-        "Daniel's journey: from silence to advocacy",
-        "Stop asking 'What is wrong with you?' Start asking 'What happened to you?'",
-        "Scars are blueprints of resilience, not defects"
+        "Trauma literacy as foundational education",
+        "Understanding attachment and early development",
+        "Recognizing trauma responses in self and others",
+        "Teaching emotional regulation and healthy relationships"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The Neurological Battleground",
+      "subtitle": "Understanding the Brain Under Siege",
+      "content": "This lecture provides the neuroscience foundation for understanding CPTSD. We examine how trauma physically rewires three critical brain regions: the Amygdala (hyperactive alarm system), the Hippocampus (memory librarian), and the Prefrontal Cortex (rational decision-maker). Chronic trauma shrinks the hippocampus, dulls the prefrontal cortex, and turns the amygdala into a smoke detector that never shuts off. Understanding these physical changes helps survivors recognize they are not broken—they are rewired.",
+      "keyPoints": [
+        "Amygdala hijack: emotional takeover of logic",
+        "Hippocampal atrophy: memory gaps and timeline confusion",
+        "Prefrontal Cortex dulled: decision-making and regulation impaired",
+        "Trauma creates physical brain changes, not character flaws"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Decoding the Damage, Rewriting the Truth",
+      "subtitle": "The Science and Story of Reclaiming Your Life",
+      "content": "This final lecture brings together neuroscience and recovery through the lens of neuroplasticity—the brain's remarkable capacity to change and heal itself. We explore how recovery involves moving from 'Survival Scripts' (I am broken) to 'New Truths' (I am adapting). Tools like journaling and storytelling help strengthen the hippocampus by connecting memory to meaning. Daniel's journey from silence to advocacy demonstrates post-traumatic growth. The lecture concludes with a call to action: stop pathologizing pain and start celebrating the miracle of survival and rewiring.",
+      "keyPoints": [
+        "Neuroplasticity: the brain's capacity to change and heal",
+        "Recovery: moving from survival scripts to new truths",
+        "Journaling and storytelling as rewiring tools",
+        "Post-traumatic growth and reclaiming your narrative"
       ]
     }
   ]
